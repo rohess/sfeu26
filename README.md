@@ -2,7 +2,7 @@
 
 Course materials for SF Europe 2026 WebRTC Masterclass
 
-- [Handouts](https://github.com/rohess/sfeu26/blob/main/handout-slides.pdf)
+- [Handouts](https://github.com/rohess/sfeu26/raw/refs/heads/main/handout-slides.pdf)
 - [Appendix](https://github.com/rohess/sfeu26/blob/main/appendix.pdf)
 - [Wireshark Profile](https://github.com/rohess/wireshark_profiles/tree/main/sfeu26)
 - [Wireshark LUA plugins to dissect SDP for the various products](https://github.com/rohess/scripts/tree/main/webrtc-extract-sdp/wireshark)
